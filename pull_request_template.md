@@ -4,9 +4,15 @@
 
 # Type
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality not to work as expected)
+<!-- Delete all lines that do not apply. Only keep the one(s) that best describe your change. -->
+
+- Bug fix (non-breaking change which fixes an issue)
+- New feature (non-breaking change which adds functionality)
+- Breaking change (fix or feature that would cause existing functionality not to work as expected)
+- Documentation (changes to documentation only)
+- Refactor (non-functional changes to improve code quality)
+- Chore (non-code operational changes, e.g., CI/CD, tooling, or dependency updates)
+
 
 # Testing
 
